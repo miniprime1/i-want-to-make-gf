@@ -1,4 +1,4 @@
-# I want to make GF.
+# Project: "I want to make GF."
 
 ## Problem: Begining.
  - My friend sent me a picture that explain how to make a gf: type a lot of "1"
